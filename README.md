@@ -1,1 +1,2 @@
-# Comprehensive-Credit-Risk-Analysis-and-Loan-Default-Prediction-with-Integrated-SQL-Workflows
+# Project Overview:
+I aim to predict which loans are most likely to default so that financial institutions can make better-informed lending decisions. This project demonstrates my ability to solve a meaningful business problem by leveraging real-world data, advanced predictive models, and interactive deployment—all while showcasing my SQL expertise. I focus on end-to-end work that covers data ingestion, cleaning, exploratory data analysis (EDA), modeling, interpretation, and interactive application development.
