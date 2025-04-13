@@ -20,31 +20,31 @@ I want to address the following challenges:
 
 The business objectives for my project are:
 
-*Reduce Financial Losses*:
+1. *Reduce Financial Losses*:
 
 Objective: Minimize the financial losses incurred due to loan defaults.
 
 Measurement: Aim for a measurable reduction in default rates and improved recovery rates on high-risk loans by optimizing credit risk assessment and mitigation strategies.
 
-*Improve Risk-Based Decision Making*:
+2. *Improve Risk-Based Decision Making*:
 
 Objective: Enable more informed lending decisions based on a rigorous, data-driven risk profile of each borrower.
 
 Measurement: Increase the accuracy of risk predictions (using metrics like ROC-AUC, precision, recall) so that credit officers can better balance the need for growth with risk avoidance.
 
-*Enhance Operational Efficiency*:
+3. *Enhance Operational Efficiency*:
 
 Objective: Streamline data ingestion, cleaning, and analysis by integrating SQL workflows with the machine learning pipeline.
 
 Measurement: Reduce the turnaround time for risk assessments and ensure that insights are updated in near real-time through automated processes.
 
-*Ensure Regulatory Compliance and Business Transparency*:
+4. *Ensure Regulatory Compliance and Business Transparency*:
 
 Objective: Support a transparent and auditable risk assessment process that meets regulatory standards.
 
 Measurement: Maintain comprehensive documentation and interactive dashboards that show the rationale behind risk scores and model predictions, facilitating regulatory reviews and internal audits.
 
-*Drive Strategic Business Impact*:
+5. *Drive Strategic Business Impact*:
 
 Objective: Provide actionable insights that drive strategic decision making, such as identifying market segments with emerging risk trends and opportunities for product customization.
 
